@@ -7,7 +7,7 @@ Oakland Furniture Store is an API built using Spring Boot that allows customers 
 <li>Postgresql</li>
 <li>Git</li>
 <li>Junit</li>
-<li>Swagger</li>
+<li>Swagger/Postman</li>
 <li>Paystack API</li>
 
 <h2>Conclusion</h2>
